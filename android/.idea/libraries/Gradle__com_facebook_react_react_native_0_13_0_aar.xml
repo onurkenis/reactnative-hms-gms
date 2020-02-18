@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native:0.13.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d693eb6ec38bc0f3e8ced3ebf056df0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d693eb6ec38bc0f3e8ced3ebf056df0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d693eb6ec38bc0f3e8ced3ebf056df0/jars/libs/infer-annotations-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native/0.13.0/e63fd4dc7bfa1519b8a439e3dc4278ed81ee46bb/react-native-0.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
