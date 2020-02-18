@@ -12,7 +12,7 @@ export const AppContext = ({ children }) => {
 
     async function getFlavor() {
         try {
-            const { flavor } = await NativeModules.BuildConfigTest.getFlavor();
+            const { flavor } = await NativeModules.BuildConfig.getFlavor();
             setFlavor(flavor);
         } catch (e) {
             console.error(e);

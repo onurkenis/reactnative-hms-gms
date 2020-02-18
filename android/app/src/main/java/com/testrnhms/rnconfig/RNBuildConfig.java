@@ -21,7 +21,7 @@ public class RNBuildConfig extends ReactContextBaseJavaModule {
 
     @Override
     public String getName() {
-            return "BuildConfigTest";
+            return "BuildConfig";
     }
 
     @ReactMethod
